@@ -1,0 +1,10 @@
+﻿{
+	"Id": "HolyVindicator",
+	"DisplayName": "Holy Vindicator",
+	"Author": "SpenceZilla",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.21.3",
+	"Requirements": [],
+	"AssemblyName": "HolyVindicator.dll",
+	"EntryMethod": "HolyVindicator.Main.Load"
+}
