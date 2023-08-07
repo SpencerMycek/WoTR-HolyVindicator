@@ -1,0 +1,93 @@
+[
+  {
+    "Key": "CEE.null",
+    "ProcessTemplates": false,
+    "enGB": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "Key": "CEE.Allow.Positive",
+    "ProcessTemplates": false,
+    "enGB": "Deity Allows Channeling Positive Energy",
+    "ruRU": "Deity Allows Channeling Positive Energy",
+    "zhCN": "Deity Allows Channeling Positive Energy"
+  },
+  {
+    "Key": "CEE.Allow.Negative",
+    "ProcessTemplates": false,
+    "enGB": "Deity Allows Channeling Negative Energy",
+    "ruRU": "Deity Allows Channeling Negative Energy",
+    "zhCN": "Deity Allows Channeling Negative Energy"
+  },
+  {
+    "Key": "CEE.Versatile.Name",
+    "ProcessTemplates": false,
+    "enGB": "Versatile Channeler",
+    "ruRU": "Versatile Channeler",
+    "zhCN": "Versatile Channeler"
+  },
+  {
+    "Key": "CEE.Versatile.Description",
+    "ProcessTemplates": false,
+    "enGB": "If you normally channel positive energy, you may choose to channel negative energy as if your effective cleric level were 2 levels lower than normal. If you normally channel negative energy, you may choose to channel positive energy as if your effective cleric level were 2 levels lower than normal.\nNote: This feat only applies to neutral clerics or warpriests who worship neutral deities — characters who have the channel energy class ability and have to make a choice to channel positive or negative energy at 1st level. Characters whose alignment or deity makes this choice for them cannot select this feat.",
+    "ruRU": "If you normally channel positive energy, you may choose to channel negative energy as if your effective cleric level were 2 levels lower than normal. If you normally channel negative energy, you may choose to channel positive energy as if your effective cleric level were 2 levels lower than normal.\nNote: This feat only applies to neutral clerics or warpriests who worship neutral deities — characters who have the channel energy class ability and have to make a choice to channel positive or negative energy at 1st level. Characters whose alignment or deity makes this choice for them cannot select this feat.",
+    "zhCN": "If you normally channel positive energy, you may choose to channel negative energy as if your effective cleric level were 2 levels lower than normal. If you normally channel negative energy, you may choose to channel positive energy as if your effective cleric level were 2 levels lower than normal.\nNote: This feat only applies to neutral clerics or warpriests who worship neutral deities — characters who have the channel energy class ability and have to make a choice to channel positive or negative energy at 1st level. Characters whose alignment or deity makes this choice for them cannot select this feat."
+  },
+  {
+    "Key": "CEE.Scourge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Channeling Scourge",
+    "ruRU": "Channeling Scourge",
+    "zhCN": "Channeling Scourge"
+  },
+  {
+    "Key": "CEE.Scourge.Description",
+    "ProcessTemplates": false,
+    "enGB": "When you use channel energy to deal damage, your inquisitor levels count as cleric levels for determining the number of damage dice and the saving throw DC",
+    "ruRU": "When you use channel energy to deal damage, your inquisitor levels count as cleric levels for determining the number of damage dice and the saving throw DC",
+    "zhCN": "When you use channel energy to deal damage, your inquisitor levels count as cleric levels for determining the number of damage dice and the saving throw DC"
+  },
+  {
+    "Key": "CEE.Improved.Name",
+    "ProcessTemplates": false,
+    "enGB": "Improved Channel",
+    "ruRU": "Improved Channel",
+    "zhCN": "Improved Channel"
+  },
+  {
+    "Key": "CEE.Improved.Description",
+    "ProcessTemplates": false,
+    "enGB": "Add 2 to the DC of saving throws made to resist the effects of your channel energy, command undead or turn undead ability.",
+    "ruRU": "Add 2 to the DC of saving throws made to resist the effects of your channel energy, command undead or turn undead ability.",
+    "zhCN": "Add 2 to the DC of saving throws made to resist the effects of your channel energy, command undead or turn undead ability."
+  },
+  {
+    "Key": "CEE.Conduit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sacred Conduit",
+    "ruRU": "Sacred Conduit",
+    "zhCN": "Sacred Conduit"
+  },
+  {
+    "Key": "CEE.Conduit.Description",
+    "ProcessTemplates": false,
+    "enGB": "Your birth was particularly painful and difficult for your mother, who needed potent divine magic to ensure that you survived (your mother may or may not have survived). In any event, that magic infused you from an early age, and you now channel divine energy with greater ease than most.\nBenefit: Whenever you channel energy, you gain a +1 trait bonus to the save DC of your channeled energy.",
+    "ruRU": "Your birth was particularly painful and difficult for your mother, who needed potent divine magic to ensure that you survived (your mother may or may not have survived). In any event, that magic infused you from an early age, and you now channel divine energy with greater ease than most.\nBenefit: Whenever you channel energy, you gain a +1 trait bonus to the save DC of your channeled energy.",
+    "zhCN": "Your birth was particularly painful and difficult for your mother, who needed potent divine magic to ensure that you survived (your mother may or may not have survived). In any event, that magic infused you from an early age, and you now channel divine energy with greater ease than most.\nBenefit: Whenever you channel energy, you gain a +1 trait bonus to the save DC of your channeled energy."
+  },
+  {
+    "Key": "CEE.Smite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Channel Smite",
+    "ruRU": "Channel Smite",
+    "zhCN": "Channel Smite"
+  },
+  {
+    "Key": "CEE.Smite.Description",
+    "ProcessTemplates": false,
+    "enGB": "Before you make a melee attack roll, you can choose to spend one use of your channel energy ability as a swift action. If you channel positive energy and you hit an undead creature, that creature takes an amount of additional damage equal to the damage dealt by your channel positive energy ability. If you channel negative energy and you hit a living creature, that creature takes an amount of additional damage equal to the damage dealt by your channel negative energy ability. Your target can make a Will save, as normal, to halve this additional damage. If your attack misses, the channel energy ability is still expended with no effect.",
+    "ruRU": "Before you make a melee attack roll, you can choose to spend one use of your channel energy ability as a swift action. If you channel positive energy and you hit an undead creature, that creature takes an amount of additional damage equal to the damage dealt by your channel positive energy ability. If you channel negative energy and you hit a living creature, that creature takes an amount of additional damage equal to the damage dealt by your channel negative energy ability. Your target can make a Will save, as normal, to halve this additional damage. If your attack misses, the channel energy ability is still expended with no effect.",
+    "zhCN": "Before you make a melee attack roll, you can choose to spend one use of your channel energy ability as a swift action. If you channel positive energy and you hit an undead creature, that creature takes an amount of additional damage equal to the damage dealt by your channel positive energy ability. If you channel negative energy and you hit a living creature, that creature takes an amount of additional damage equal to the damage dealt by your channel negative energy ability. Your target can make a Will save, as normal, to halve this additional damage. If your attack misses, the channel energy ability is still expended with no effect."
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "Key": "HV.Class.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Vindicator",
+    "ruRU": "Holy Vindicator",
+    "zhCN": "Holy Vindicator"
+  },
+  {
+    "Key": "HV.Class.Description",
+    "ProcessTemplates": false,
+    "enGB": "Many faiths have within their membership an order of the church militant, be they holy knights or dark warriors, who put their lives and immortal souls on the line for their faith. They are paragons of battle, eschewing sermons for steel. These men and women are living conduits of divine power, down to their very blood, which they happily shed in a moment if it brings greater glory to their deity or judgment upon heretics, infidels, and all enemies of the faith. Holy vindicators are usually clerics or fighter/clerics, though many paladins (or even paladin/clerics) are drawn to this class as well. In all cases, the class offers a further opportunity to fuse and refine their martial and ministerial powers and role.\nThe holy vindicator has substantial spellcasting ability, though not so much as a focused cleric or paladin.His combat skills are considerable and his healing powers prodigious, and those whose religious views align well with the vindicator will find a ready ally.",
+    "ruRU": "Many faiths have within their membership an order of the church militant, be they holy knights or dark warriors, who put their lives and immortal souls on the line for their faith. They are paragons of battle, eschewing sermons for steel. These men and women are living conduits of divine power, down to their very blood, which they happily shed in a moment if it brings greater glory to their deity or judgment upon heretics, infidels, and all enemies of the faith. Holy vindicators are usually clerics or fighter/clerics, though many paladins (or even paladin/clerics) are drawn to this class as well. In all cases, the class offers a further opportunity to fuse and refine their martial and ministerial powers and role.\nThe holy vindicator has substantial spellcasting ability, though not so much as a focused cleric or paladin.His combat skills are considerable and his healing powers prodigious, and those whose religious views align well with the vindicator will find a ready ally.",
+    "zhCN": "Many faiths have within their membership an order of the church militant, be they holy knights or dark warriors, who put their lives and immortal souls on the line for their faith. They are paragons of battle, eschewing sermons for steel. These men and women are living conduits of divine power, down to their very blood, which they happily shed in a moment if it brings greater glory to their deity or judgment upon heretics, infidels, and all enemies of the faith. Holy vindicators are usually clerics or fighter/clerics, though many paladins (or even paladin/clerics) are drawn to this class as well. In all cases, the class offers a further opportunity to fuse and refine their martial and ministerial powers and role.\nThe holy vindicator has substantial spellcasting ability, though not so much as a focused cleric or paladin.His combat skills are considerable and his healing powers prodigious, and those whose religious views align well with the vindicator will find a ready ally."
+  },
+  {
+    "Key": "HV.null",
+    "ProcessTemplates": false,
+    "enGB": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "Key": "HV.Prof.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Vindicator Proficiencies",
+    "ruRU": "Holy Vindicator Proficiencies",
+    "zhCN": "Holy Vindicator Proficiencies"
+  },
+  {
+    "Key": "HV.Prof.Description",
+    "ProcessTemplates": true,
+    "enGB": "A vindicator is proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g} and with all armor (heavy, light, and medium) and shields (except tower shields).",
+    "ruRU": "A vindicator is proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g} and with all armor (heavy, light, and medium) and shields (except tower shields).",
+    "zhCN": "A vindicator is proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g} and with all armor (heavy, light, and medium) and shields (except tower shields)."
+  },
+  {
+    "Key": "HV.Spells.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Vindicator spellcasting",
+    "ruRU": "Holy Vindicator spellcasting",
+    "zhCN": "Holy Vindicator spellcasting"
+  },
+  {
+    "Key": "HV.Spells.Description",
+    "ProcessTemplates": true,
+    "enGB": "At second level, and every level after except 5 and 9, a vindicator gains new {g|Encyclopedia:Spells}spells{/g} per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits of that class other than spells per day, spells known, and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a vindicator, he must decide to which class he adds the new level for the purpose of determining spells per day.",
+    "ruRU": "At second level, and every level after except 5 and 9, a vindicator gains new {g|Encyclopedia:Spells}spells{/g} per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits of that class other than spells per day, spells known, and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a vindicator, he must decide to which class he adds the new level for the purpose of determining spells per day.",
+    "zhCN": "At second level, and every level after except 5 and 9, a vindicator gains new {g|Encyclopedia:Spells}spells{/g} per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits of that class other than spells per day, spells known, and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a vindicator, he must decide to which class he adds the new level for the purpose of determining spells per day."
+  },
+  {
+    "Key": "HV.Stigmata.Name",
+    "ProcessTemplates": false,
+    "enGB": "Stigmata",
+    "ruRU": "Stigmata",
+    "zhCN": "Stigmata"
+  },
+  {
+    "Key": "HV.Stigmata.Name.Move",
+    "ProcessTemplates": false,
+    "enGB": " — Move Action",
+    "ruRU": " — Move Action",
+    "zhCN": " — Move Action"
+  },
+  {
+    "Key": "HV.Stigmata.Name.Swift",
+    "ProcessTemplates": false,
+    "enGB": " — Swift Action",
+    "ruRU": " — Swift Action",
+    "zhCN": " — Swift Action"
+  },
+  {
+    "Key": "HV.Stigmata.Description",
+    "ProcessTemplates": false,
+    "enGB": "A vindicator willingly gives his blood in service to his faith, and is marked by scarified wounds appropriate to his deity. At 2nd level, he may stop or start the flow of blood by force of will as a standard action; at 6th level it becomes a move action, and at 10th level it becomes a swift action. Activating stigmata causes holy or unholy damage equal to half the vindicator’s class level every round. While the stigmata are bleeding, the vindicator gains a sacred bonus (if he channels positive energy) or profane bonus (if he channels negative energy) equal to half his class level. Each time he activates his stigmata, the vindicator decides if the bonus applies to attack rolls, weapon damage rolls, Armor Class, caster level checks, or saving throws; to change what the bonus applies to, the vindicator must deactivate and reactivate his stigmata. While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action.",
+    "ruRU": "A vindicator willingly gives his blood in service to his faith, and is marked by scarified wounds appropriate to his deity. At 2nd level, he may stop or start the flow of blood by force of will as a standard action; at 6th level it becomes a move action, and at 10th level it becomes a swift action. Activating stigmata causes holy or unholy damage equal to half the vindicator’s class level every round. While the stigmata are bleeding, the vindicator gains a sacred bonus (if he channels positive energy) or profane bonus (if he channels negative energy) equal to half his class level. Each time he activates his stigmata, the vindicator decides if the bonus applies to attack rolls, weapon damage rolls, Armor Class, caster level checks, or saving throws; to change what the bonus applies to, the vindicator must deactivate and reactivate his stigmata. While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action.",
+    "zhCN": "A vindicator willingly gives his blood in service to his faith, and is marked by scarified wounds appropriate to his deity. At 2nd level, he may stop or start the flow of blood by force of will as a standard action; at 6th level it becomes a move action, and at 10th level it becomes a swift action. Activating stigmata causes holy or unholy damage equal to half the vindicator’s class level every round. While the stigmata are bleeding, the vindicator gains a sacred bonus (if he channels positive energy) or profane bonus (if he channels negative energy) equal to half his class level. Each time he activates his stigmata, the vindicator decides if the bonus applies to attack rolls, weapon damage rolls, Armor Class, caster level checks, or saving throws; to change what the bonus applies to, the vindicator must deactivate and reactivate his stigmata. While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action."
+  },
+  {
+    "Key": "HV.Stigmata.Description.Move",
+    "ProcessTemplates": false,
+    "enGB": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a move action.",
+    "ruRU": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a move action.",
+    "zhCN": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a move action."
+  },
+  {
+    "Key": "HV.Stigmata.Description.Swift",
+    "ProcessTemplates": false,
+    "enGB": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a Swift action.",
+    "ruRU": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a Swift action.",
+    "zhCN": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a Swift action."
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.AttackRolls",
+    "ProcessTemplates": false,
+    "enGB": " — Attack Rolls (Sacred)",
+    "ruRU": " — Attack Rolls (Sacred)",
+    "zhCN": " — Attack Rolls (Sacred)"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.WeaponDamage",
+    "ProcessTemplates": false,
+    "enGB": " — Weapon Damage (Sacred)",
+    "ruRU": " — Weapon Damage (Sacred)",
+    "zhCN": " — Weapon Damage (Sacred)"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.ArmorClass",
+    "ProcessTemplates": false,
+    "enGB": " — Armor Class (Sacred)",
+    "ruRU": " — Armor Class (Sacred)",
+    "zhCN": " — Armor Class (Sacred)"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.CasterLevel",
+    "ProcessTemplates": false,
+    "enGB": " — Caster Level Checks (Sacred)",
+    "ruRU": " — Caster Level Checks (Sacred)",
+    "zhCN": " — Caster Level Checks (Sacred)"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.Saves",
+    "ProcessTemplates": false,
+    "enGB": " — Saving Throws (Sacred)",
+    "ruRU": " — Saving Throws (Sacred)",
+    "zhCN": " — Saving Throws (Sacred)"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.AttackRolls",
+    "ProcessTemplates": false,
+    "enGB": " — Attack Rolls (Profane)",
+    "ruRU": " — Attack Rolls (Profane)",
+    "zhCN": " — Attack Rolls (Profane)"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.WeaponDamage",
+    "ProcessTemplates": false,
+    "enGB": " — Weapon Damage (Profane)",
+    "ruRU": " — Weapon Damage (Profane)",
+    "zhCN": " — Weapon Damage (Profane)"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.ArmorClass",
+    "ProcessTemplates": false,
+    "enGB": " — Armor Class (Profane)",
+    "ruRU": " — Armor Class (Profane)",
+    "zhCN": " — Armor Class (Profane)"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.CasterLevel",
+    "ProcessTemplates": false,
+    "enGB": " — Caster Level Checks (Profane)",
+    "ruRU": " — Caster Level Checks (Profane)",
+    "zhCN": " — Caster Level Checks (Profane)"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.Saves",
+    "ProcessTemplates": false,
+    "enGB": " — Saving Throws (Profane)",
+    "ruRU": " — Saving Throws (Profane)",
+    "zhCN": " — Saving Throws (Profane)"
+  },
+  {
+    "Key": "HV.Faith.Name",
+    "ProcessTemplates": false,
+    "enGB": "Faith Healing",
+    "ruRU": "Faith Healing",
+    "zhCN": "Faith Healing"
+  },
+  {
+    "Key": "HV.Faith.Empower.Name",
+    "ProcessTemplates": false,
+    "enGB": " — Empowered",
+    "ruRU": " — Empowered",
+    "zhCN": " — Empowered"
+  },
+  {
+    "Key": "HV.Faith.Empower.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 3rd level, any cure wounds spells a vindicator casts on himself are automatically empowered as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "ruRU": "At 3rd level, any cure wounds spells a vindicator casts on himself are automatically empowered as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "zhCN": "At 3rd level, any cure wounds spells a vindicator casts on himself are automatically empowered as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself."
+  },
+  {
+    "Key": "HV.Faith.Maximize.Name",
+    "ProcessTemplates": false,
+    "enGB": " — Maximized",
+    "ruRU": " — Maximized",
+    "zhCN": " — Maximized"
+  },
+  {
+    "Key": "HV.Faith.Maximize.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 8th level, any cure wounds spells a vindicator casts on himself are automatically maximized, instead of empowered, as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "ruRU": "At 8th level, any cure wounds spells a vindicator casts on himself are automatically maximized, instead of empowered, as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "zhCN": "At 8th level, any cure wounds spells a vindicator casts on himself are automatically maximized, instead of empowered, as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself."
+  },
+  {
+    "Key": "HV.Wrath.Name",
+    "ProcessTemplates": false,
+    "enGB": "Divine Wrath",
+    "ruRU": "Divine Wrath",
+    "zhCN": "Divine Wrath"
+  },
+  {
+    "Key": "HV.Wrath.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action",
+    "ruRU": "At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action",
+    "zhCN": "At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action"
+  },
+  {
+    "Key": "HV.Wrath.Buff.Description",
+    "ProcessTemplates": false,
+    "enGB": "You're next confirmed critical hit will invoke doom upon the target",
+    "ruRU": "You're next confirmed critical hit will invoke doom upon the target",
+    "zhCN": "You're next confirmed critical hit will invoke doom upon the target"
+  },
+  {
+    "Key": "HV.Shield.Name",
+    "ProcessTemplates": false,
+    "enGB": "Vindicator’s Shield",
+    "ruRU": "Vindicator’s Shield",
+    "zhCN": "Vindicator’s Shield"
+  },
+  {
+    "Key": "HV.Shield.Description",
+    "ProcessTemplates": false,
+    "enGB": "A vindicator can channel energy into his shield as a standard action; when worn, the shield gives the vindicator a sacred bonus (if positive energy) or profane bonus (if negative energy) to his Armor Class equal to the number of dice of the vindicator’s channel energy. This bonus lasts for 24 hours or until the vindicator is struck in combat, whichever comes first. The shield does not provide this bonus to any other wielder, but the vindicator does not need to be holding the shield for it to retain this power.",
+    "ruRU": "A vindicator can channel energy into his shield as a standard action; when worn, the shield gives the vindicator a sacred bonus (if positive energy) or profane bonus (if negative energy) to his Armor Class equal to the number of dice of the vindicator’s channel energy. This bonus lasts for 24 hours or until the vindicator is struck in combat, whichever comes first. The shield does not provide this bonus to any other wielder, but the vindicator does not need to be holding the shield for it to retain this power.",
+    "zhCN": "A vindicator can channel energy into his shield as a standard action; when worn, the shield gives the vindicator a sacred bonus (if positive energy) or profane bonus (if negative energy) to his Armor Class equal to the number of dice of the vindicator’s channel energy. This bonus lasts for 24 hours or until the vindicator is struck in combat, whichever comes first. The shield does not provide this bonus to any other wielder, but the vindicator does not need to be holding the shield for it to retain this power."
+  },
+  {
+    "Key": "HV.Channel.Name",
+    "ProcessTemplates": false,
+    "enGB": "Channel Energy",
+    "ruRU": "Channel Energy",
+    "zhCN": "Channel Energy"
+  },
+  {
+    "Key": "HV.Channel.Description",
+    "ProcessTemplates": false,
+    "enGB": "The vindicator’s class level stacks with levels in any other class that grants the channel energy ability.",
+    "ruRU": "The vindicator’s class level stacks with levels in any other class that grants the channel energy ability.",
+    "zhCN": "The vindicator’s class level stacks with levels in any other class that grants the channel energy ability."
+  },
+  {
+    "Key": "HV.Versatile.Name",
+    "ProcessTemplates": false,
+    "enGB": "Versatile Channel",
+    "ruRU": "Versatile Channel",
+    "zhCN": "Versatile Channel"
+  },
+  {
+    "Key": "HV.Versatile.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 6th level, a vindicator’s channel energy can instead affect a 30-foot cone or a 120-foot line.",
+    "ruRU": "At 6th level, a vindicator’s channel energy can instead affect a 30-foot cone or a 120-foot line.",
+    "zhCN": "At 6th level, a vindicator’s channel energy can instead affect a 30-foot cone or a 120-foot line."
+  },
+  {
+    "Key": "HV.Smite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Channel Smite",
+    "ruRU": "Channel Smite",
+    "zhCN": "Channel Smite"
+  },
+  {
+    "Key": "HV.Smite.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 5th level, a vindicator gains Channel Smite as a bonus feat.",
+    "ruRU": "At 5th level, a vindicator gains Channel Smite as a bonus feat.",
+    "zhCN": "At 5th level, a vindicator gains Channel Smite as a bonus feat."
+  },
+  {
+    "Key": "HV.Bloodfire.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bloodfire",
+    "ruRU": "Bloodfire",
+    "zhCN": "Bloodfire"
+  },
+  {
+    "Key": "HV.Bloodfire.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses Channel Smite, the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.",
+    "ruRU": "At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses Channel Smite, the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.",
+    "zhCN": "At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses Channel Smite, the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects."
+  },
+  {
+    "Key": "HV.Bloodrain.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bloodrain",
+    "ruRU": "Bloodrain",
+    "zhCN": "Bloodrain"
+  },
+  {
+    "Key": "HV.Bloodrain.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 9th level, while his stigmata are bleeding, the vindicator’s harmful channeled energy is accompanied by a burst of sacred or profane liquid energy, increasing the damage by 1d6. Creatures failing their saves against the channeled energy become sickened and take 1d6 points of bleed damage each round. Affected creatures can attempt a new save every round to end the sickened and bleed effects.",
+    "ruRU": "At 9th level, while his stigmata are bleeding, the vindicator’s harmful channeled energy is accompanied by a burst of sacred or profane liquid energy, increasing the damage by 1d6. Creatures failing their saves against the channeled energy become sickened and take 1d6 points of bleed damage each round. Affected creatures can attempt a new save every round to end the sickened and bleed effects.",
+    "zhCN": "At 9th level, while his stigmata are bleeding, the vindicator’s harmful channeled energy is accompanied by a burst of sacred or profane liquid energy, increasing the damage by 1d6. Creatures failing their saves against the channeled energy become sickened and take 1d6 points of bleed damage each round. Affected creatures can attempt a new save every round to end the sickened and bleed effects."
+  }
+]

@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\HolyVindicator\blueprints.txt
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\HolyVindicator\CodexLib.dll
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\HolyVindicator\HolyVindicator.dll
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\HolyVindicator\Info.json
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\HolyVindicator\l8n
